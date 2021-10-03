@@ -1,0 +1,5 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C1I87V1T0U322RQPSRKG").setAdvancedMatchingAvailableProperties({"email":false,"phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C1I87V1T0U322RQPSRKG").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C1I87V1T0U322RQPSRKG").setPixelInfo({status: 0, name: "[NOVO] Pixel - Mgalu", advertiserID: "6909060988687876098", setupMode: 1, partner: "", is_onsite: false});
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("magazineluiza.com.br");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
